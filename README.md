@@ -1,7 +1,8 @@
-<!-- 最顶部的动态访客徽章 -->
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=JodexCode.JodexCode)
+<!-- 顶部动态访客徽章（国内可用） -->
+![Visitor](https://komarev.com/ghpvc/?username=JodexCode&label=Profile%20views&labelColor=222&countColor=4c1)
 
-<!-- 打招呼区域 -->
+---
+
 ### 👋 Hi there！你可以叫我「杰」或 「Jodex」
 > Jodex 是我自己起的英文名 —— 可惜英语依旧很烂，但这并不妨碍我沉迷代码世界。
 
@@ -10,22 +11,33 @@
 <!-- 基本信息卡片 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JodexCode&show_icons=true&theme=vue)
 
-<!-- 技术栈 -->
+---
+
 ### 🛠 Tech Stack
-| 分类 | 已掌握 |
-|---|---|
-| 语言 | JavaScript · TypeScript |
-| 前端框架 | Vue 3 · Nuxt 4 |
-| UI 库 | Element Plus |
-| 样式 | SCSS · UnoCSS · WindiCSS |
-| 后端 | Node.js · Express |
-| 数据库 | MySQL · PostgreSQL · Redis |
-| 工具 | Git · Vite · ESLint · Prettier |
+<p align="left">
+  <!-- 语言 -->
+  <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript & TypeScript" />
+  <!-- 前端框架 -->
+  <img src="https://skillicons.dev/icons?i=vue,nuxt" alt="Vue 3 & Nuxt 4" />
+  <!-- UI 库 -->
+  <img src="https://skillicons.dev/icons?i=vuetify" alt="Element Plus" />
+  <!-- 样式 -->
+  <img src="https://skillicons.dev/icons?i=sass,windi" alt="SCSS & UnoCSS & WindiCSS" />
+  <!-- 后端 -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js & Express" />
+  <!-- 数据库 -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" alt="MySQL & PostgreSQL & Redis" />
+  <!-- 工具 -->
+  <img src="https://skillicons.dev/icons?i=vite,git" alt="Git & Vite & ESLint & Prettier" />
+</p>
 
 ---
 
 ### 🌱 正在学习
-React · Flutter · Electron  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,electron" alt="React & Flutter & Electron" />
+</p>
+
 （欢迎大佬带路，issues / 邮件都可）
 
 ---
@@ -34,14 +46,19 @@ React · Flutter · Electron
 #### ZeroPoint 个人博客
 - 技术：Nuxt 4 + TS + PostgreSQL + Redis
 - 亮点：响应式 + 明暗主题 + Session 认证
-- 地址：https://jodex.cn（欢迎提意见，脸皮厚扛得住 😂）
+- 地址：<a href="https://jodex.cn" target="_blank"><img src="https://img.shields.io/badge/🔗-https://jodex.cn-1e8ceb?logo=firefox&logoColor=white" alt="blog" /></a>（欢迎提意见，脸皮厚扛得住 😂）
 
 ---
 
 ### 📮 找到我
-- 🌍 博客：https://jodex.cn
-- 📧 邮箱：yanghanjie2005@qq.com
-- 💬 issue：本仓库下留言即可
+<p align="left">
+  <a href="https://jodex.cn" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-个人博客-1e8ceb?logo=firefox&logoColor=white" alt="blog" />
+  </a>
+  <a href="mailto:yanghanjie2005@qq.com">
+    <img src="https://img.shields.io/badge/Email-yanghanjie2005@qq.com-ea4335?logo=gmail&logoColor=white" alt="mail" />
+  </a>
+</p>
 
 ---
 
